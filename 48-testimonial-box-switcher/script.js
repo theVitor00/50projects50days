@@ -66,7 +66,7 @@ function updateTestimonial () {
     testimonial.innerHTML = text;
     userImage.src = photo;
     username.innerHTML = name;
-    role.innerHTML - position;
+    role.innerHTML = position;
 
     idx++;
 
